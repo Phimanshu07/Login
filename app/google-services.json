@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128730187912",
+    "firebase_url": "https://login-2a05c.firebaseio.com",
+    "project_id": "login-2a05c",
+    "storage_bucket": "login-2a05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128730187912:android:96f4fcd39565771397373d",
+        "android_client_info": {
+          "package_name": "com.internshala.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128730187912-eici2s77bboo518iido38lkvu2k96v5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMaBHO01Z3OsdIPQYXeYWsFbltcldBQxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128730187912-eici2s77bboo518iido38lkvu2k96v5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
